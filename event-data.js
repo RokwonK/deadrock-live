@@ -289,22 +289,32 @@ window.EVENT_DATA = {
   notices: [
     {
       eyebrow: "START TIME",
-      title: "공연 시작",
+      title: "공연 시작 17시 10분",
       text: "공연은 17시 10분에 시작합니다. 원활한 관람을 위해 입장 시간에 맞춰 와주세요."
     },
     {
       eyebrow: "SEATING",
-      title: "관람 형태",
-      text: "공연장은 스탠딩 관람으로 운영되며 좌석은 제공되지 않습니다."
+      title: "스탠딩 관람",
+      text: "스탠딩 관람이 기본이며, 좌석은 소수만 마련되어 있습니다."
+    },
+    {
+      eyebrow: "CROWDING",
+      title: "혼잡 주의",
+      text: "공연장 내부가 협소해 혼잡할 수 있습니다. 안전한 관람을 위해 서로 배려해 주세요."
+    },
+    {
+      eyebrow: "BAGGAGE",
+      title: "큰 짐 자제",
+      text: "공연장 내 짐 보관이 어렵습니다. 큰 짐은 가급적 가져오지 말아 주세요."
     },
     {
       eyebrow: "PARKING",
-      title: "주차 안내",
+      title: "주차 불가",
       text: "공연장 주차는 어렵습니다. 대중교통 이용을 권장합니다."
     },
     {
       eyebrow: "FOOD & DRINK",
-      title: "식음료",
+      title: "식음료 반입 불가",
       text: "식음료 반입은 불가하며, 매장 내에서 음료를 판매합니다."
     }
   ]
